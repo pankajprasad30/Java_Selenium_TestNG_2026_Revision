@@ -1,4 +1,8 @@
 Git important commands:
-1. git --version 
-2. git init
-3. git clone
+1. git --version : To check the version of git
+2. git init : To initialize empty repository
+3. git clone : To copy repo from server to local pc
+4. git status : To check which file is newly added
+5. git add . : To add all new file
+5. git commit -m "Your Message" : To show the message in server
+6. git push --all Paste repo link
