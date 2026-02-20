@@ -11,3 +11,8 @@ Git important commands:
 7. git pull "Repo Link" : To pull updated new file from server to local.
 8. git fetch : is used to check list of branches available.
 9. git checkout "Branch name" : To send on particular branch.
+
+.............................................
+10. git branch branch_name : To create new branch in local
+11. git branch : It will show list of available branch
+12. git checkout branch_name: to switch the branch where you want to push the code. 
