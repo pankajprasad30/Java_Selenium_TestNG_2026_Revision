@@ -15,10 +15,10 @@ Git important commands:
 .............................................
 10. git branch branch_name : To create new branch in local
 11. git branch : It will show list of available branch
-12. git checkout branch_name: to switch the branch where you want to push the code.
+12. git checkout branch_name: To switch the branch where you want to push the code.
 
 .........................
-git push origin --delete branch-name : To delete branch in server
-git branch -d branch_name : To delete branch in local 
-git branch -D branch-name: Force delete in local
-git branch -r: to check remote branch
+git push origin --delete branch-name : To delete branch from server
+git branch -d branch_name : To delete branch from local 
+git branch -D branch-name: Force delete from local
+git branch -r: To check remote branch
